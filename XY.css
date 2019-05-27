@@ -1,0 +1,159 @@
+.head {
+    width: 100%;
+    height: 100px;
+}
+
+.bar {
+    width: 100%;
+    height: 35px;
+    background-color:rgba(255, 255, 255, 0.60);
+    margin-top: 40px;
+}
+div#logo {
+    width: 100px;
+    height: 100%;
+    background: url("https://image.noelshack.com/fichiers/2019/08/6/1550925770-majdi-khawaja-cartoon-christmas-mickey-christmas.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    float: left;
+    cursor: pointer;
+}
+div#link {
+    width: 200px;
+    height: 100%;
+    color: #737373;
+    float: left;
+    text-align: center;
+    line-height: 2.0;
+    cursor: pointer;
+    font-family: optima, sans-serif;
+}
+div#link:hover {
+    background-color: white;
+    color: rgb(9, 15, 73);
+}
+div#link-gauche {
+    width: 200px;
+    height: 100%;
+    color: #737373;
+    float: right;
+    text-align: center;
+    line-height: 2.0;
+    cursor: pointer;
+    position: relative;
+    right: 0;
+    font-family: optima, sans-serif;
+}
+div#link-gauche:hover {
+    background-color: white;
+    color: rgb(9, 15, 73);
+}
+div#sommaire {
+    float: none;
+    color: indigo;
+}
+.form {
+    margin-top: 75px;
+}
+.form2 {
+    position: absolute;
+    right: 0;
+    margin-top: -269px;
+}
+.form3 {
+    position: absolute;
+    right: 0;
+    margin-top: -180px;
+}
+.autour {
+    width: 50%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding-top: 42px;
+    padding-bottom: 45px;
+    align-content: center;
+    margin: auto;
+    background-color: white;
+    margin-top: 1%;
+    position: absolute;
+    left: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.autour2 {
+    width: 50%;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding-top: 42px;
+    padding-bottom: 45px;
+    align-content: center;
+    margin: auto;
+    background-color: white;
+    margin-top: 1%;
+    position: absolute;
+    left: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.live {
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding-top: 42px;
+    padding-right: 60px;
+    padding-bottom: 300px;
+    padding-left: 165px;
+    align-content: center;
+    margin: auto;
+    background-color: white;
+    margin-top: 1%;
+    position: absolute;
+    right: 150px;
+}
+body {
+    background: url("https://image.noelshack.com/fichiers/2019/09/5/1551438736-fond-ecran-wallpaper-image-fonds-ecran-abstrait-gris-14-1.jpg");
+    
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+}
+.para-article {
+    text-align: center;
+    font-size: larger;
+}
+.para-description {
+    text-align: center;
+    font-size: larger;
+    color: #878787;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.title-live {
+    margin-left: 12px;
+    font-style: oblique;
+}
+.lele {
+    margin-left: 70%;
+    width: 250px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
+}
+.tt {
+    padding-left: 55px;
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: larger;
+}
+.heure {
+    padding-left: 12px;
+}
+p.info-article {
+    color: #b3b3b3;
+}
